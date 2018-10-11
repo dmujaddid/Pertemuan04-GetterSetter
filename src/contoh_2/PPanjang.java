@@ -35,7 +35,7 @@ public class PPanjang {
         return panjang*lebar;
     }
     
-    // rumus kelilig
+    // rumus keliling
     public double hasilKeliling() {
         return (panjang+lebar)*2;
     }
